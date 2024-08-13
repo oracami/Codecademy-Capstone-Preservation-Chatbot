@@ -1,4 +1,4 @@
-# LA-Conservancy-Chatbot
+# Codecademy-Capstone: Preservation Chatbot
 Written by Camille Elston
 Codecademy username: @oranicole
 
