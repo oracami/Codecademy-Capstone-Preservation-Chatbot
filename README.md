@@ -1,5 +1,6 @@
 # Codecademy-Capstone: Preservation Chatbot
 Written by Camille Elston
+
 Codecademy username: @oranicole
 
 I chose a retrieval chatbot because I want a chatbot that has pre-defined answers but allows for a diversity of inputs. A retrieval system was the best solution in this case. The LA Conservancy Chatbot takes the form of software, embedded into the official website. It offers a faster and easier way to get answers to common preservation questions. Creating the LA Conservancy Chatbot allows us to respond to more constituents more efficiently, and create more time for staff to handle complex issues. Our users can expect to get their answers quicker than if through traditional email.
